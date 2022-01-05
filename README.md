@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Javascript, typescript and .NET projects.**
+- 🔭 I’m currently working on **Javascript, Typescript and .NET projects.**
 
-- 🌱 I’m currently learning **all of other new stuffs.**
+- 🌱 I’m currently learning **alot of other new stuffs.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 

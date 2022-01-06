@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **preciouskosisochukwu01@gmail.com**
 
-- ⚡ Fun fact **I used to be a No-body till computing made me a SOME-body, lol.**
+- ⚡ Something you don't know **I'm LEGENDDARY.**
 
 ## 🚀 Languages and Tools:
 

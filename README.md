@@ -76,7 +76,4 @@
 
 [![Winning game Africa Gamethon 2020](https://github-readme-stats.vercel.app/api/pin/?username=PreciousKosisochukwuJenz&repo=canon-crush&theme=blue-green&show_owner=true)](https://github.com/PreciousKosisochukwuJenz/fcanon-crush)
 
-[![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=PreciousKosisochukwuJenz&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
-
-[![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=PreciousKosisochukwuJenz&repo=awesome&show_owner=true)](https://github.com/shinokada/awesome)
 

@@ -34,15 +34,15 @@
 
 <p align="center">
     <a href="https://github.com/PreciousKosisochukwuJenz/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Edward's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PreciousKosisochukwuJenz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Precious Kosisochukwu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PreciousKosisochukwuJenz&theme=blue-greene&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Nnvedward/github-readme-stats"><img alt="Precious Kosisochukwu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PreciousKosisochukwuJenz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/PreciousKosisochukwuJenz/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreciousKosisochukwuJenz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Nnvedward/github-readme-stats"><img alt="Precious Kosisochukwu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PreciousKosisochukwuJenz&show_icons=true&count_private=true&theme=blue-green&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/PreciousKosisochukwuJenz/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreciousKosisochukwuJenz&langs_count=8&count_private=true&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 

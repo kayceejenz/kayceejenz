@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **preciouskosisochukwu01@gmail.com**
 
-- ⚡ Something you don't know **I'm LEGENDDARY.**
+- ⚡ Something you don't know **I'm LEGENDARY.**
 
 ## 🚀 Languages and Tools:
 

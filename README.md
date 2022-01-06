@@ -69,4 +69,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=PreciousKosisochukwuJenz">
 </a>
-<a href="https://github.com/Nnvedward?tab=followers"><img src="https://img.shields.io/github/followers/PreciousKosisochukwuJenz?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/PreciousKosisochukwuJenz?tab=followers"><img src="https://img.shields.io/github/followers/PreciousKosisochukwuJenz?label=Followers&style=social" alt="GitHub Badge"></a>

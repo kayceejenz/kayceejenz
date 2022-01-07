@@ -9,10 +9,10 @@
 
 - 🌱 I’m currently learning **alot of other new stuffs.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate to **OpenSource Projects**
 
 
-- 📫 How to reach me **preciouskosisochukwu01@gmail.com**
+- 📫 Reach me at  **preciouskosisochukwu01@gmail.com**
 
 - ⚡ Something you don't know **I'm LEGENDARY.**
 

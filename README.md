@@ -60,7 +60,6 @@
 
 <a href="https://www.linkedin.com/in/precious-kosisochukwu-1aa4a8167/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/jenz_tweetzz"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/preciouskosisochukwujenz/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>

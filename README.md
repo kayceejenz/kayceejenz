@@ -51,28 +51,3 @@
 <br/>
 
 <a href="https://github.com/PreciousKosisochukwuJenz/github-readme-activity-graph"><img alt="Precious Kosisochukwu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PreciousKosisochukwuJenz&theme=chartreuse-dark&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href="https://www.linkedin.com/in/precious-kosisochukwu-1aa4a8167/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/jenz_tweetzz"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=PreciousKosisochukwuJenz">
-</a>
-<a href="https://github.com/PreciousKosisochukwuJenz?tab=followers"><img src="https://img.shields.io/github/followers/PreciousKosisochukwuJenz?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-## Repos
-
-[![Winning game Africa Gamethon 2020](https://github-readme-stats.vercel.app/api/pin/?username=PreciousKosisochukwuJenz&repo=canon-crush&theme=blue-green&show_owner=true)](https://github.com/PreciousKosisochukwuJenz/canon-crush)
-
-

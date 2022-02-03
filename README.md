@@ -28,19 +28,17 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="(https://docs.microsoft.com/)" target="_blank"> <img src="https://img.icons8.com/ios-filled/100/000000/c-sharp-logo.png" width="45" height="45"/> </a> 
-    
 </p>
+  <a href="https://github.com/PreciousKosisochukwuJenz/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreciousKosisochukwuJenz&langs_count=8&count_private=true&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 <br/>
 
 ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/Nnvedward/github-readme-stats"><img alt="Precious Kosisochukwu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PreciousKosisochukwuJenz&show_icons=true&count_private=true&theme=blue-green&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/PreciousKosisochukwuJenz/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreciousKosisochukwuJenz&langs_count=8&count_private=true&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
 <br/>
 

@@ -3,19 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Precious Kosisochukwu</h1>
 
 
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **Javascript, Typescript and .NET projects.**
-
-- 🌱 I’m currently learning **alot of other new stuffs.**
-
-- 👯 I’m looking to collaborate to **OpenSource Projects**
-
-
-- 📫 Reach me at  **preciouskosisochukwu01@gmail.com**
-
-- ⚡ Something you don't know: **I'm LEGENDARY.**
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 

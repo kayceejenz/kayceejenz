@@ -2,22 +2,30 @@
 
 <p align="center">
   <strong>Software Engineer</strong><br>
-  Backend Systems and AI & Machine Learning
+  Backend Engineering · Applied AI
 </p>
 
-I build backend systems and AI applications, from APIs and database architecture to retrieval systems and machine learning models
+I build dependable backend systems and AI applications, with experience across enterprise software, education and payments.
 
-### Expertise
+My work spans API design, database optimisation, legacy modernisation and production operations. I value maintainable code, clear technical decisions and systems that handle real-world failures.
 
-- Backend development and API design
-- Database architecture and migrations
-- AI application development and RAG systems
+Core stack
 
-### Interests
+- Backend: C#, ASP.NET Core, TypeScript, NestJS, Python, FastAPI
 
-- Agentic systems and tool-using AI agents
-- Retrieval-augmented generation and evaluation
-- Machine learning, NLP, and recommendation systems
+- Data: SQL Server, PostgreSQL, MongoDB, pgvector
+
+- Delivery: AWS, Docker, GitHub Actions
+
+Exploring and building
+
+Alongside an MSc in Artificial Intelligence, I work on:
+
+- RAG applications and retrieval evaluation
+
+- Tool-using AI agents and agent evaluation
+
+- Machine learning, NLP and recommendation systems
 
 ### Find me online
 
